@@ -1,0 +1,10 @@
+
+1) Web Hosts (Best Way How to Make a Website Load Faster).
+2) Browser Cache (User Level)
+3) we can add to UI in pretty much everywhere to look it more facinating and ofcourse we can do it with css stylesheet or may be we can use the React framework.
+4) Server Cache : The server cache works the same way as the browser cache – on the server level. The webserver cache can be emptied in WordPress with Breeze and Cloudflare.
+5)  Use Essential Plugins
+6)  Configure the “expires headers”
+7) Compress Your Content
+8) Limit External Requests
+9) Physical Server Selection
